@@ -28,6 +28,10 @@ body {
     animation: rainbowAnimation 10s linear infinite;
 }
 
+.image-section img {
+    width: 30%;
+}
+    
 @keyframes rainbowAnimation {
     0% {
         background-position: 0% 50%;
